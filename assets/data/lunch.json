@@ -1,0 +1,18 @@
+{
+	"Lunch": [{
+			"name": "Kraft Dinner",
+			"price": 10,
+			"cal": 400
+		},
+		{
+			"name": "Milk",
+			"price": 2,
+			"cal": 110
+		},
+		{
+			"name": "Hot Dog",
+			"price": 3.00,
+			"cal": 200
+		}
+	]
+}

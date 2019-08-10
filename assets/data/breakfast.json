@@ -1,0 +1,18 @@
+{
+	"Breakfast": [{
+			"name": "Eggs",
+			"price": 5,
+			"cal": 75
+		},
+		{
+			"name": "Toast",
+			"price": 3,
+			"cal": 110
+		},
+		{
+			"name": "Oat Meal",
+			"price": 1,
+			"cal": 150
+		}
+	]
+}

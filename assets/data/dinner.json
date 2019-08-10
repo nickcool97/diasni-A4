@@ -1,0 +1,18 @@
+{
+	"Dinner": [{
+			"name": "Pork Chop",
+			"price": 15,
+			"cal": 600
+		},
+		{
+			"name": "Potato",
+			"price": 8,
+			"cal": 240
+		},
+		{
+			"name": "Gravy",
+			"price": 3,
+			"cal": 150
+		}
+	]
+}
